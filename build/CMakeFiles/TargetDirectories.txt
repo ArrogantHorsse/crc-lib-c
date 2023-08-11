@@ -1,0 +1,3 @@
+/home/test/freeSpace/crc-lib-c/build/CMakeFiles/CalcCrc.dir
+/home/test/freeSpace/crc-lib-c/build/CMakeFiles/edit_cache.dir
+/home/test/freeSpace/crc-lib-c/build/CMakeFiles/rebuild_cache.dir
